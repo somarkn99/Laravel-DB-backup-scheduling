@@ -1,0 +1,13 @@
+{
+    "name": "somarkn99/backup-scheduling",
+    "description": "This package allows you to schedule an auto backup for your database",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["framework", "laravel","Database","Backup","auto"],
+    "autoload": {
+        "psr-4": {
+            "Somarkn99\\BackupScheduling\\": "src/"
+        }
+    },
+    "require": {}
+}
